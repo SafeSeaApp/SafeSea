@@ -1,5 +1,5 @@
 {
-	    "name": "worker-name",
+	    "name": "safeseaapp",
 	    "compatibility_date": "2025-05-14",
-	    "main": "src/index.ts"
+	    "upload_source_maps": true
 	  }
